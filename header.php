@@ -74,8 +74,8 @@ if(document.userinfo.username.value.length > 10)
 			<div class="socials right">
 				<ul>
 				    <li><a href="https://www.facebook.com/" class="fb">Facebook</a></li>
-				    <li class="last"><a href="https://twitter.com" class="twit">Twitter</a></li>
-				</ul>
+				    <li><a href="https://twitter.com" class="twit">Twitter</a></li>
+				    <li class="last"><a href="https://github.com/kaziridwan/bracusports" style="background: url(https://assets-cdn.github.com/favicon.ico) no-repeat 0 0; background-size: 16px;">Github</a></li> </ul>
 			</div>
 			<div class="cl">&nbsp;</div>
 		</div>
